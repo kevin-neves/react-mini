@@ -1,6 +1,6 @@
 # Minimal implementation for Create React App using ESLint
 
-Just clone the repository e run <code>npm i</code> to install the dependencies, and star coding
+Just clone the repository, run <code>npm i</code> to install the dependencies, and start coding
 
 # Features
 
